@@ -8,12 +8,12 @@
 </head>
 <body>
     <h1>Categoria de Gastos</h1>
-    <li>
-        <ul>Tranporte</ul>
-        <ul>Alimentação</ul>
-        <ul>Entretenimento</ul>
-        <ul>Internet</ul>
-        <ul>Outros gastos</ul>
-    </li>
+    <ul>
+        <li>Tranporte</li>
+        <li>Alimentação</li>
+        <li>Entretenimento</li>
+        <li>Internet</li>
+        <li>Outros gastos</li>
+    </ul>
 </body>
 </html>

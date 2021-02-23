@@ -8,7 +8,7 @@
 </head>
 <body>
     <label for="descricao">Nome da categoria: <br><input type="text" name="nome"></label><br/>
-    <label for="descricao">Descrição: <br><input type="text" name="descricao"></label><br/>
+    <label for="descricao">Descrição: <br><input type="text" name="descricao"></label><br/><br>
     <button type="button">Enviar</button>
     <button type="reset">Limpar</button>
 </body>
