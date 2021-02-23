@@ -10,16 +10,23 @@
     <h1>Lista de gastos de Fevereiro</h1>
     <table>
         <tr>
-            <td>Data</td><td>Descrição</td><td>Valor</td>
+            <td>Data: </td>
+            <td>10/02/2021</td>
+            <td>12/02/2021</td>
+            <td>21/02/2021</td>
         </tr>
         <tr>
-            <td>01/02/2021</td><td>Passagem de ônibus</td><td>R$ 4,00</td>
+            <td>Descrição: </td>
+            <td>Salgado</td>
+            <td>Chocolate</td>
+            <td>Uber</td>
+            
         </tr>
         <tr>
-            <td>02/02/2021</td><td>Salgado</td><td>R$ 1,50</td>
-        </tr>
-        <tr>
-            <td>02/02/2021</td><td>Refrigente</td><td>R$ 1,00</td>
+            <td>Valor</td>
+            <td>R$ 2,00</td>
+            <td>R$ 4,00</td>
+            <td>R$ 12,80</td>
         </tr>
     </table>
 </body>
